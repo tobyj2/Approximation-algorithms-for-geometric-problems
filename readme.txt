@@ -1,0 +1,2 @@
+This Java programme takes as input two arguments: a .off file containing the points to be analysed and a double which acts as the approximation factor of the furthest points problem
+It prints the closest pair of points then the furthest pair of points found.
